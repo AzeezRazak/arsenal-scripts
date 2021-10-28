@@ -1,0 +1,19 @@
+SGD Regressor
+ElasticNet Lasso
+RidgeRegression (kernel='linear')
+SVR(kernel='rbf') EnsembleRegressors
+
+Dimensionality Reduction
+Randomized PCA
+Isomap Spectral Embedding
+
+Clustering
+Minibatch KMeans
+Spectral Clustering GMM
+MeansShift VBGMM
+
+Classification
+SVC Ensemble Classifiers
+Naive Bayes
+KNeighbors Classifier
+Linear SVC

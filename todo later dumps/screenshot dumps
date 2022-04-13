@@ -1,0 +1,42 @@
+Pytorch Lightning
+Tensorflow
+Weights and Biases
+Hydra
+Data Version Control
+ONNX
+Docker, Amazon ECR
+Github Actions
+Co-Variance Matrix
+Machine Learning - Supervised, Unsupervised, Reinforcement, Transfer Learning, Ensemble, Dimensionality Reduction
+Ensemble Methods - Stacking, Bagging (Random Forest), Boosting (AdaBoost, CatBoost, LightGBM, XGBoost)
+Linear, Nonlinear, Bias-Variance trade-off, Underfitting Overfitting, 
+Optimization Gradient Descent, Ordinary Least Squares, Maximum Likelihood Estimation
+Linear Algorithms (Regression) Linear, Lasso, Ridge, Logistic
+Linear Discriminant Analysis
+Nonlinear Algorithms - Classification and Regression Trees (CART/Decision Trees)
+Naive Bayes Classifier, K-Nearest Neighbors
+
+Knowledge Representation Learning - Representation Space, Scoring Function, Encoding Models, Auxiliary Information
+Representation Space - Point-wise, Complex, Discrete, Manifold, Gaussian
+Scoring Function - Distance, Semantic Matching
+Encoding Models - Linear/Bilinear, Factorization, Neural Nets, CNN RNN GCN, Transformers
+Auxiliary Information - Textual, Type, Visual
+
+Knowledge Acquisition - Entity Discovery, Relation Extraction, Knowledge Graph Completion
+Entity Discovery - Recognition, Typing, Disambiguation, Alignment
+Relation Extraction - Neural Nets, Attention, GCN GAN RL
+Knowledge Graph Completion - Embedding-based Ranking, Path-based Ruled-based Reasoning, Meta Relational Learning, Triple Classification
+
+Automation Testing - Splinter, Robot, Behave, PyUnit, PyTest
+
+Activation Functions - sigmoid, tanh, Rectified Linear Unit, leaky RELU, Exponential linear unit, Swish, softmax
+DCGAN - Adding convolution to GAN
+Least squares GAN
+GANS with Wasserstein distance
+Conditional GAN
+InfoGAN, CycleGAN, StackGAN
+
+Reconstructing inputs using autoencoder - Preparing dataset, Defining encoder/decoder, 
+building model, reconstructed images, plotting reconstructing images
+
+LeNet, AlexNet, VGGNet, GoogleNet Inception v1 Inception v2 v3
